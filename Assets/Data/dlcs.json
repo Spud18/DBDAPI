@@ -1,7 +1,7 @@
 {
   "lastBreath": {
     "name": "The Last Breath Chapter",
-    "description": null,
+    "description": "The Last Breath is the first Chapter for Dead by Daylight. It provides a glimpse of the effect of insanity in its purest and most violent form, as players gets to visit the asylum Crotus Prenn. You’ll also meet a new Killer, the Nurse, and the Survivor Nea Karlsson. Wretched minds, screaming in the dark can still be heard late at night. A Nurse with an equally distorted mind as those she treated. A Survivor with catlike movements. And an asylum that nobody left sane...or alive. The Last Breath is a FREE Chapter for Dead by Daylight and it includes a new Killer, Survivor and a map.",
     "steamid": "509060",
     "time": "1471442400",
     "banner": "https://cdn.akamai.steamstatic.com/steam/apps/509060/header.jpg"
@@ -20,9 +20,9 @@
     "time": "1481115600",
     "banner": "https://cdn.akamai.steamstatic.com/steam/apps/554381/header.jpg"
   },
-  "LeftBehind": {
+  "leftBehind": {
     "name": "Left Behind",
-    "description": null,
+    "description": "Put on that comfy beret and green combat jacket if you wanna fight another day as war veteran Bill Overbeck. You were left for dead, but you woke up. Now you have gotten the only thing you ever wanted: an enemy to fight. Left Behind is a free add-on for Dead by Daylight and includes 1 survivor + 4 brand new Survivor outfits.",
     "steamid": "573940",
     "time": "1488996000",
     "banner": "https://cdn.akamai.steamstatic.com/steam/apps/573940/header.jpg"
@@ -43,7 +43,7 @@
   },
   "Cannibal": {
     "name": "Leatherface",
-    "description": "Leatherface™ is a Character DLC for Dead by Daylight.<br><br>This is slaughter in its purest form. A kind of slaughter driven by a pure need of flesh. Leatherface won’t fail and he won’t stop. As the chainsaw starts, you know what is coming. Pain and fear in a combination of panic as you understand that death isn’t the end. You will also end up on someone’s plate.",
+    "description": "Leatherface is a Character DLC for Dead by Daylight.<br><br>This is slaughter in its purest form. A kind of slaughter driven by a pure need of flesh. Leatherface won’t fail and he won’t stop. As the chainsaw starts, you know what is coming. Pain and fear in a combination of panic as you understand that death isn’t the end. You will also end up on someone’s plate.",
     "steamid": "700280",
     "time": "1505311200",
     "banner": "https://cdn.akamai.steamstatic.com/steam/apps/700280/header.jpg"
